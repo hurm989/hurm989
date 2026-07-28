@@ -82,32 +82,17 @@ I believe the best way to learn software development is by building, experimenti
 
 ## 🛠️ Technologies I Work With
 
-**Languages**
-- JavaScript
-- TypeScript
-- Python
+**Languages:** JavaScript, TypeScript, Python
 
-**Frontend**
-- React.js
-- Next.js
-- React Native
-- Tailwind CSS
-- Material UI
-- Redux Toolkit
+**Frontend:** React.js, Next.js, React Native, Tailwind CSS, Material UI, Redux Toolkit
 
-**Backend**
-- Node.js
-- Express.js
-- Firebase
-- REST APIs
+**Backend:** Node.js, Express.js, Firebase, REST APIs
 
-**Tools**
-- Git & GitHub
-- Jira
-- Trello
-- Vercel
-- Netlify
-- Stripe
+**Databases:** MongoDB, Firebase
+
+**Payments & Integrations:** Stripe API, Third-party API integrations
+
+**Tools & Platforms:** Git, GitHub, Jira, Trello, Vercel, Netlify
 
 ---
 
