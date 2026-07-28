@@ -111,19 +111,6 @@ I believe the best way to learn software development is by building, experimenti
 
 ---
 
-## 📂 What You’ll Find Here
-
-My GitHub contains:
-
-- React and Next.js projects
-- Full-stack application examples
-- UI components and experiments
-- Learning projects and technical explorations
-
-I aim to keep my repositories practical, clean, and focused on real-world development.
-
----
-
 ## 🤝 Open To Collaborate On
 
 - React.js and Next.js projects
